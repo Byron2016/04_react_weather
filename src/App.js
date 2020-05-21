@@ -14,10 +14,10 @@ function App() {
   `;
   return (
     <App>
-      <WeatherCard temp={30} condition="Clear" />
-      <WeatherCard temp={-20} condition="Snow" />
-      <WeatherCard temp={40} condition="Tornado" />
-      <WeatherCard temp={0} condition="Hail" />
+      <WeatherCard temp={30} condition="Clear" city="Quito" country="EC" />
+      <WeatherCard temp={-20} condition="Snow" city="Bogota" country="CO" />
+      <WeatherCard temp={40} condition="Tornado" city="Miami" country="US" />
+      <WeatherCard temp={0} condition="Hail" city="Santiago" country="CL" />
     </App>
   );
 }
