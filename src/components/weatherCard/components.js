@@ -1,3 +1,6 @@
+//https://www.youtube.com/watch?v=NJWI1b1upps&list=PLDIXF8nb0VG1v4S-smVy7GV0MHsJ3PJiL&index=1
+//https://react-2020.thinkific.com/courses/take/learn-react-in-2020/lessons/9927486-introduction-to-react
+
 import React from "react";
 import styled from "@emotion/styled";
 
